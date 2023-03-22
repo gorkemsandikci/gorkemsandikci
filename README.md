@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Görkem</h1>
 <h3 align="center">A passionate full-stack developer and environmental engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gsandikci" target="blank"><img src="https://img.shields.io/twitter/follow/gsandikci?logo=twitter&style=for-the-badge" alt="gsandikci" /></a> </p>
-
 - 🔭 I’m currently working on [Ideal Kimlik (Electronic Business Card)](https://idealkimlik.com/)
 
 - 🌱 I’m currently learning **Cyber Security and Vue.js**
@@ -34,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemsandikci&show_icons=true&locale=en" alt="gorkemsandikci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemsandikci&" alt="gorkemsandikci" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci" /> </p>
 
