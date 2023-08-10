@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gorkem</h1>
-<h3 align="center">A passionate full-stack developer and environmental engineer from Turkey</h3>
+<h3 align="center">A passionate full-stack developer and environmental engineer.</h3>
 
 🏆 I am in 100 projects [challenge](https://gorkemnet.com/100days100projects/)  in 100 days. You can join if you want! 🏆
   
