@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋 I'm Gorkem</h1>
-<h3 align="center">A passionate full-stack developer and environmental engineer.</h3>
+<h3 align="center">Mostly Backend Developer, Part Time Full Stack Developer and Environmental Engineer.</h3>
 
-🏆 I am in 100 projects [challenge](https://gorkemnet.com/100days100projects/)  in 100 days. You can join if you want! 🏆
+🏆 I am participating in the 100 projects in 100 days [challenge](https://gorkemnet.com/100days100projects/). You can join if you want! 🏆
+
+- 👨‍💻 The 3 technologies I use most are **PHP, Laravel Framework and MySQL**
+
+- 🌱 Also I'm improving my **Vue.Js and TypeScript skills**
   
-- 🏎️ I’m currently working on [elitcarrental.com](https://elitcarrental.com/)
-  
-- 🔭 I developed the electronic business card application with the [idealkimlik.com](https://idealkimlik.com/) 
-  
-- 🌱 Also I'm improving my **Vue.js skill**
-
-- 👯 Also I’m developed [Kıbrıs konut projeleri](https://kibriskonutprojeleri.com/) Website 
-
-- 👨‍💻 For everything about myself [https://gorkemnet.com/](https://gorkemnet.com/)
-
+- 🔭 I developed the following projects
+  - [Ideal Kimlik](https://idealkimlik.com/) : Electronic Business Card Application
+  - [Hevipet](https://hevipet.com) [and Hevitag](https://hevitag.com) : Digital Pet Identity Projects
+  - [Yeklam Actual News](https://yeklam.com/aktuel/) : Actual News Website
+  - [Cyprus Housing Projects](https://kibriskonutprojeleri.com/) : Housing Project Promotion Website
+  - [Anadolu Merkez Servisi](https://anadolumerkezservisi.com/) : Technical Maintenance Service Company Website
+  - [Asel Gayrimenkul Karasu](https://aselgayrimenkulkarasu.com) : Real Estate Agent Company Website
+  - [Saldıroğlu Pen](http://fethiyedecambalkon.com) : Glass Balcony & Frameless Glazing Company Website
+ 
 - 💬 Ask me about **project development and creative ideas**
 
-- 📫 How to reach me **gorkem@gorkemnet.com**
+- 📫 For everything about myself, visit [https://gorkemnet.com/](https://gorkemnet.com/)
 
-- ⚡ **I think backend is funny**
+- ⚡ **I find backend development amusing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsandikci" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorkemsandikci" height="30" width="40" /></a>
 <a href="https://instagram.com/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkemsandikci" height="30" width="40" /></a>
+<a href="https://twitter.com/gsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsandikci" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Coding:</h3>
@@ -33,6 +36,9 @@
                rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
                         alt="php" width="40" height="40"/> </a>
+            <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+                     alt="laravel" width="40" height="40"/> </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                      alt="javascript" width="40" height="40"/> </a>
@@ -40,9 +46,6 @@
                rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                         alt="mysql" width="40" height="40"/> </a>
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-                     alt="laravel" width="40" height="40"/> </a>
             <a href="https://postman.com" target="_blank"
                rel="noreferrer"> <img
                         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
