@@ -1,26 +1,15 @@
 <h1 align="center">Hi 👋 I'm Gorkem</h1>
-<h3 align="center">Mostly Backend Developer, Part Time Full Stack Developer and Environmental Engineer.</h3>
+<h3 align="center">Full Stack Developer and Environmental Engineer.</h3>
 
 🏆 I am participating in the 100 projects in 100 days [challenge](https://gorkemnet.com/100days100projects/). You can join if you want! 🏆
 
 - 👨‍💻 The 3 technologies I use most are **PHP, Laravel Framework and MySQL**
 
 - 🌱 Also I'm improving my **Vue.Js and TypeScript skills**
-  
-- 🔭 I developed the following projects
-  - [Ideal Kimlik](https://idealkimlik.com/) : Electronic Business Card Application
-  - [Hevipet](https://hevipet.com) [and Hevitag](https://hevitag.com) : Digital Pet Identity Projects
-  - [Yeklam Actual News](https://yeklam.com/aktuel/) : Actual News Website
-  - [Cyprus Housing Projects](https://kibriskonutprojeleri.com/) : Housing Project Promotion Website
-  - [Anadolu Merkez Servisi](https://anadolumerkezservisi.com/) : Technical Maintenance Service Company Website
-  - [Asel Gayrimenkul Karasu](https://aselgayrimenkulkarasu.com) : Real Estate Agent Company Website
-  - [Saldıroğlu Pen](http://fethiyedecambalkon.com) : Glass Balcony & Frameless Glazing Company Website
  
 - 💬 Ask me about **project development and creative ideas**
 
 - 📫 For everything about myself, visit [https://gorkemnet.com/](https://gorkemnet.com/)
-
-- ⚡ **I find backend development amusing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -128,5 +117,19 @@
                      height="40"/> </a>
         </p>
 
+<h4 align="left">Some Projects I developed</h4>
+<p align="left">
+  
+- [Ideal Kimlik](https://idealkimlik.com/) : Electronic Business Card
+- [Hevipet](https://hevipet.com) [and Hevitag](https://hevitag.com) : Digital Pet Identity Projects
+- [Yeklam Actual News](https://yeklam.com/aktuel/) : Actual News Website
+- [Cyprus Housing Projects](https://kibriskonutprojeleri.com/) : Housing Project Promotion Website
+- [Anadolu Merkez Servisi](https://anadolumerkezservisi.com/) : Technical Maintenance Service Company Website
+- [Asel Gayrimenkul Karasu](https://aselgayrimenkulkarasu.com) : Real Estate Agent Company Website
+- [Saldıroğlu Pen](http://fethiyedecambalkon.com) : Glass Balcony & Frameless Glazing Company 
+
+</p>
+
+<a href="https://wakatime.com/@c3bd9b7f-1fb2-417e-bfeb-145b93967018"><img src="https://wakatime.com/badge/user/c3bd9b7f-1fb2-417e-bfeb-145b93967018.svg" alt="Total time coded since Jan 30 2023" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci" /> </p>
 
