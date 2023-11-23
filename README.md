@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋 I'm Gorkem</h1>
 <h3 align="center">Full Stack Developer and Environmental Engineer.</h3>
 
+<!--<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gorkemsandikci&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="gorkemsandikci" />&nbsp;&nbsp;
+</p>-->
+
+<p align="center">
 🏆 I am participating in the 100 projects in 100 days [challenge](https://gorkemnet.com/100days100projects/). You can join if you want! 🏆
 
 - 👨‍💻 The 3 technologies I use most are **PHP, Laravel Framework and MySQL**
@@ -10,17 +15,9 @@
 - 💬 Ask me about **project development and creative ideas**
 
 - 📫 For everything about myself, visit [https://gorkemnet.com/](https://gorkemnet.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorkemsandikci" height="30" width="40" /></a>
-<a href="https://instagram.com/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkemsandikci" height="30" width="40" /></a>
-<a href="https://twitter.com/gsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsandikci" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Coding:</h3>
-
-<p align="left">
+<p align="center">
             <a href="https://www.php.net" target="_blank"
                rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -90,8 +87,7 @@
                         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
                         width="40" height="40"/> </a>
 </p>
-<h3 align="left">Tools:</h3>
-<p align="left">
+<p align="center">
             <a
                     href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
                         src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
@@ -115,8 +111,33 @@
             <a href="https://unity.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
                      height="40"/> </a>
-        </p>
+</p>
 
+<p align="center">
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@gorkemsandikci/88094b5e-3739-42c9-81dc-ea79fde36d66.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@gorkemsandikci/4a971798-10fe-4e07-8888-cd5b7102fce1.png" /></a>
+ <!--
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=gorkemsandikci&count_private=true&show_icons=true&custom_title=gorkemsandikci's%20Github%20Status&hide=issues&theme=vision-friendly-dark"/>
+ -->
+</p>
+ 
+ <p align="center">
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemsandikci&layout=compact&theme=vision-friendly-dark"/>
+  </p>
+
+ <p align="center">
+  <a href="https://wakatime.com/@c3bd9b7f-1fb2-417e-bfeb-145b93967018"><img src="https://wakatime.com/badge/user/c3bd9b7f-1fb2-417e-bfeb-145b93967018.svg" alt="Total time coded since Jan 30 2023" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci" /> 
+ </p>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorkemsandikci" height="30" width="40" /></a>
+<a href="https://instagram.com/gorkemsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkemsandikci" height="30" width="40" /></a>
+<a href="https://twitter.com/gsandikci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsandikci" height="30" width="40" /></a>
+</p>
+
+<!--
 <h4 align="left">Some Projects I developed</h4>
 <p align="left">
   
@@ -129,7 +150,4 @@
 - [Saldıroğlu Pen](http://fethiyedecambalkon.com) : Glass Balcony & Frameless Glazing Company 
 
 </p>
-
-<a href="https://wakatime.com/@c3bd9b7f-1fb2-417e-bfeb-145b93967018"><img src="https://wakatime.com/badge/user/c3bd9b7f-1fb2-417e-bfeb-145b93967018.svg" alt="Total time coded since Jan 30 2023" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci" /> </p>
-
+-->
