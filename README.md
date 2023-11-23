@@ -5,8 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gorkemsandikci&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="gorkemsandikci" />&nbsp;&nbsp;
 </p>-->
 
-<p align="center">
-🏆 I am participating in the 100 projects in 100 days [challenge](https://gorkemnet.com/100days100projects/). You can join if you want! 🏆
+<p align="left">
+🏆 I am participating in the <a href="https://gorkemnet.com/100days100projects/" target="_blank"
+               rel="noreferrer">100 projects in 100 days</a>. You can join if you want! 🏆
 
 - 👨‍💻 The 3 technologies I use most are **PHP, Laravel Framework and MySQL**
 
