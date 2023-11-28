@@ -17,11 +17,11 @@
 
 <!-- Github Streak Start-->
 <p align="center">
-    <a href="https://git.io/streak-stats"><img
-                src="https://github-readme-streak-stats.herokuapp.com?user=gorkemsandikci&theme=transparent&card_width=350"
-                alt="GitHub Streak"/></a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=gorkemsandikci&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    </a>
    <img height="195" width="400"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemsandikci&layout=compact&theme=vision-friendly-dark"/>
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemsandikci&layout=compact&theme=transparent"/>
 </p>
 <!-- Github Streak End-->
 
