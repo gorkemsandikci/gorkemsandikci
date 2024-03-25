@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer and Environmental Engineer.</h3>
 
 <p align="left">
-    🏆 I am participating in the <a href="https://gorkemnet.com/100days100projects/" target="_blank"
+    🏆 I am participating in the <a href="https://github.com/gorkemsandikci/100days100projects" target="_blank"
                                    rel="noreferrer">100 projects in 100 days</a>. You can join if you want! 🏆
   
   - 👨‍💻 The 3 technologies I use most are **PHP, Laravel Framework and MySQL**
@@ -68,7 +68,7 @@
              width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
              alt="laravel" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -147,9 +147,6 @@
        rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
                 height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"
-       rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
