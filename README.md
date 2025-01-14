@@ -4,57 +4,59 @@
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gsandikci)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkemsandikci/)
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌟 Software Developer | Blockchain & Web3 Enthusiast | Project Manager
-- 🎓 Graduate of Solana bootcamp with expertise in PHP Laravel Framework.
-- 🌐 Experienced in RESTful APIs, C# .NET, MVC, Entity Framework, and ERP.
-- 🕹️ Skilled in game development with Unity, 3D modeling with Blender, and drawing with Adobe Photoshop and Illustrator.
-- 📈 Passionate about data analysis and algorithm development.
+- 🚀 Full Stack Developer | Blockchain & Web3 Enthusiast | Project Manager
+- 🎓 Solana bootcamp graduate with expertise in PHP Laravel Framework
+- 🌐 Experienced in RESTful APIs, C# .NET, MVC, Entity Framework, and ERP
+- 🎮 Skilled in Unity game development, Blender 3D modeling, and Adobe design tools
+- 📊 Passionate about data analysis and algorithm development
 
-## 💼 Experience
+## 🛠️ Technical Skills
 
-### Software Developer
-- **PHP Laravel Framework, RESTful APIs:** Developed multiple projects integrating various APIs and managing backend operations.
-- **C# .NET, MVC, Entity Framework:** Created enterprise-level applications focusing on data analysis and reporting.
-- **Unity, Blender, Adobe Photoshop/Illustrator:** Developed interactive games and 3D models, enhancing user experiences with high-quality graphics.
-- **Blockchain, Web3, Solana:** Led and contributed to blockchain projects, leveraging the Solana network for efficient and secure solutions.
+### Backend
+- PHP (Laravel Framework)
+- C# (.NET, MVC, Entity Framework)
+- RESTful APIs
+- MySQL, Redis
+- Linux, Nginx
 
-### Project Manager
-- **Enterprise Resource Planning (ERP):** Managed ERP implementation projects, ensuring seamless integration and data accuracy.
-- **Team Leadership:** Coordinated teams of developers and designers, overseeing project timelines and deliverables.
-- **Client Communication:** Maintained clear and consistent communication with clients, ensuring project requirements were met and expectations exceeded.
+### Frontend
+- JavaScript
+- Vue.js
+- Quasar Framework
 
-## 📊  Projects
+### Blockchain & Web3
+- Solana
+- Web3 Technologies
 
-- **Ideal Kimlik** : Electronic Business Card Application. Explore: [Ideal Kimlik](https://idealkimlik.com/)
-- **Hevipet and Hevitag** : Digital Pet Identity Projects. Explore: [Hevipet](https://hevipet.com) and [Hevitag](https://hevitag.com)
-- **Yeklam Actual News** : Actual News Website. Explore: [Yeklam Actual News](https://yeklam.com/aktuel/)
-- **Cyprus Housing Projects** : Housing Project Promotion Website. Explore: [Cyprus Housing Projects](https://kibriskonutprojeleri.com/)
-- **Anadolu Merkez Servisi** : Technical Maintenance Service Company Website. Explore: [Anadolu Merkez Servisi](https://anadolumerkezservisi.com/)
-- **Saldıroglu Pen** : Glass Balcony & Frameless Glazing Company Website. Explore: [Saldıroglu Pen](http://fethiyedecambalkon.com)
-- **Real Estate Project** : A real estate website developed with Laravel API backend, Vue frontend, and Quasar panel.
-- **E-Commerce App with Laravel** : An e-commerce application built with Laravel. Explore: [E-Commerce App with Laravel](https://github.com/gorkemsandikci/E-Commerce-App-with-Laravel)
-- **AI Assignment** : AI API allows users to send device information to obtain their premium status and application configuration data, manage chat messages, and record purchase transactions. The API also includes an admin panel to view all purchase transactions. Explore: [AI Assignment](https://github.com/gorkemsandikci/AI-Assignment)
+### Tools & Others
+- Unity Game Engine
+- Blender
+- Adobe (Photoshop, Illustrator)
+- Kubernetes
+- Docker
+
+## 🚀 Featured Projects
+
+### Web Applications
+- [Ideal Kimlik](https://idealkimlik.com/) - Electronic Business Card Application
+- [Hevipet](https://hevipet.com) & [Hevitag](https://hevitag.com) - Digital Pet Identity Projects
+- [Yeklam News](https://yeklam.com/aktuel/) - Current News Platform
+- [Cyprus Housing Projects](https://kibriskonutprojeleri.com/) - Real Estate Project Showcase
+- [E-Commerce App](https://github.com/gorkemsandikci/E-Commerce-App-with-Laravel) - Laravel-based E-commerce Platform
+- [AI Assignment](https://github.com/gorkemsandikci/AI-Assignment) - AI API Project
 
 ## 🌱 Interests
 
-- 🏰 Exploring historical sites and museums, learning about diverse cultures and histories.
-- 🍽️ Experiencing traditional cuisines and unique local cultures.
-- 🎭 Attending shows, music festivals, and exploring local markets.
-- ✈️ Traveling to new destinations, embracing adventure and learning.
-- 💻 Coding and developing software projects, passionate about creating innovative solutions and improving existing systems.
-- 🎨 Creating 3D models with Blender and digital artwork with Adobe Photoshop and Illustrator.
-- 🕹️ Game development with Unity, focusing on creating immersive and engaging experiences.
+- 🏰 Exploring historical sites and museums
+- 🎨 3D modeling and digital art creation
+- 🎮 Game development and interactive experiences
+- 💻 Creating innovative software solutions
+- ✈️ Traveling and experiencing different cultures
 
-## 📫 Contact Me
+## 📈 GitHub Stats
 
-- 📧 Email:  **[gorkemsandikci@gmail.com](mailto:gorkemsandikci@gmail.com)**
-- 🌐 Website: [gorkemnet.com](https://gorkemnet.com/)
-
-Looking forward to collaborating on exciting projects!
-
-<!-- Github Stats Start-->
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=gorkemsandikci&theme=transparent&card_width=350&exclude_days=Sun%2CSat" alt="GitHub Streak" />
@@ -66,7 +68,12 @@ Looking forward to collaborating on exciting projects!
     </a>
     <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci"/>
 </p>
-<!-- Github Stats End-->
+
+## 📫 Contact
+
+- 📧 Email: **[gorkemsandikci@gmail.com](mailto:gorkemsandikci@gmail.com)**
+- 🌐 Website: [gorkemnet.com](https://gorkemnet.com/)
+- 💼 LinkedIn: [gorkemsandikci](https://www.linkedin.com/in/gorkemsandikci/)
 
 <p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -81,40 +88,8 @@ Looking forward to collaborating on exciting projects!
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" height="30"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-    </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/>
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/>
