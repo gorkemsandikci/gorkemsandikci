@@ -3,59 +3,54 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkemsandikci/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gsandikci)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkemsandikci/)
-
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer | Blockchain & Web3 Enthusiast | Project Manager
-- 🎓 Solana bootcamp graduate with expertise in PHP Laravel Framework
-- 🌐 Experienced in RESTful APIs, C# .NET, MVC, Entity Framework, and ERP
-- 🎮 Skilled in Unity game development, Blender 3D modeling, and Adobe design tools
-- 📊 Passionate about data analysis and algorithm development
+Backend developer building scalable web applications with **Laravel** and **RESTful APIs**. I architect systems that handle real-world complexity—from role-based project management platforms to ERP solutions.
 
-## 🛠️ Technical Skills
+**What I Build:**
+- 🔧 Enterprise-grade APIs and backend systems
+- 🏗️ Full-stack Laravel applications with Vue.js
+- ⚙️ DevOps-ready deployments (Docker, Linux, Nginx)
 
-### Backend
-- PHP (Laravel Framework)
-- C# (.NET, MVC, Entity Framework)
-- RESTful APIs
-- MySQL, Redis
-- Linux, Nginx
+**Also Exploring:**
+- 🌐 Web3 & Solana blockchain development
+- 🎮 Unity game dev & 3D modeling with Blender
 
-### Frontend
-- JavaScript
-- Vue.js
-- Quasar Framework
+**Recent Wins:**
+- 🥈 2nd Place - HackSolana Marathon (Superteam, Oct 2024)
+- 🥉 3rd Place - Andromeda Web3 Workshop (RiseIn, Feb 2025)
+- 🎖️ 4th Place - Stacks Hackathon (RiseIn, Oct 2025)
 
-### Blockchain & Web3
-- Solana
-- Web3 Technologies
+**Background:** Environmental Engineer turned developer—bringing analytical thinking to code.
 
-### Tools & Others
-- Unity Game Engine
-- Blender
-- Adobe (Photoshop, Illustrator)
-- Kubernetes
-- Docker
+### 🛠️ Tech Stack
 
-## 🚀 Featured Projects
+**Backend & Database**
+```
+PHP • Laravel • Lumen • C# • .NET Core • MySQL • PostgreSQL • MsSQL
+```
 
-### Web Applications
-- [Ideal Kimlik](https://idealkimlik.com/) - Electronic Business Card Application
-- [Hevipet](https://hevipet.com) & [Hevitag](https://hevitag.com) - Digital Pet Identity Projects
-- [Yeklam News](https://yeklam.com/aktuel/) - Current News Platform
-- [Cyprus Housing Projects](https://kibriskonutprojeleri.com/) - Real Estate Project Showcase
-- [E-Commerce App](https://github.com/gorkemsandikci/E-Commerce-App-with-Laravel) - Laravel-based E-commerce Platform
-- [AI Assignment](https://github.com/gorkemsandikci/AI-Assignment) - AI API Project
+**DevOps & Tools**
+```
+Docker • Git • Linux • Nginx • Digital Ocean
+```
 
-## 🌱 Interests
+**Frontend**
+```
+JavaScript • TypeScript • Vue.js • Quasar • HTML/CSS • Tailwind
+```
 
-- 🏰 Exploring historical sites and museums
-- 🎨 3D modeling and digital art creation
-- 🎮 Game development and interactive experiences
-- 💻 Creating innovative software solutions
-- ✈️ Traveling and experiencing different cultures
+**Blockchain & Others**
+```
+Solana • Rust • Unity • Blender • Flutter
+```
 
-## 📈 GitHub Stats
+---
+
+📫 **gorkemsandikci@gmail.com** | [Portfolio](https://gorkemnet.com/)
+
+
+---
 
 <p align="center">
     <a href="https://git.io/streak-stats">
@@ -69,11 +64,6 @@
     <img src="https://komarev.com/ghpvc/?username=gorkemsandikci&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemsandikci"/>
 </p>
 
-## 📫 Contact
-
-- 📧 Email: **[gorkemsandikci@gmail.com](mailto:gorkemsandikci@gmail.com)**
-- 🌐 Website: [gorkemnet.com](https://gorkemnet.com/)
-- 💼 LinkedIn: [gorkemsandikci](https://www.linkedin.com/in/gorkemsandikci/)
 
 <p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
