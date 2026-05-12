@@ -3,52 +3,52 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkemsandikci/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gsandikci)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkemsandikci/)
+
+Software Development Specialist (Backend) · Environmental Engineer
+
+📍 Istanbul, Turkey · 📫 gorkemsandikci@gmail.com · 🌐 [gorkemnet.com](https://gorkemnet.com/)
+
 ## 👨‍💻 About Me
 
-Backend developer building scalable web applications with **Laravel** and **RESTful APIs**. I architect systems that handle real-world complexity—from role-based project management platforms to ERP solutions.
+Backend-focused developer specializing in **PHP/Laravel** and **RESTful APIs**, with hands-on DevOps and AI-adjacent services (YOLOv8, multimodal, FastAPI, early RAG).
 
-**What I Build:**
-- 🔧 Enterprise-grade APIs and backend systems
-- 🏗️ Full-stack Laravel applications with Vue.js
-- ⚙️ DevOps-ready deployments (Docker, Linux, Nginx)
+### ⭐ Highlights
 
-**Also Exploring:**
-- 🌐 Web3 & Solana blockchain development
-- 🎮 Unity game dev & 3D modeling with Blender
+```
+- Shipped production APIs and services (Laravel, PostgreSQL/MySQL, Docker, Linux).
+- Built workflow systems (RBAC, approvals, file handling) and admin tooling.
+- Implemented RTMP → HLS streaming for private platform embeds.
+- Awards: 🥈 HackSolana (Oct 2024) · 🥉 Andromeda Web3 Workshop (Feb 2025) · 🎖️ Stacks Hackathon (Oct 2025)
+```
 
-**Recent Wins:**
-- 🥈 2nd Place - HackSolana Marathon (Superteam, Oct 2024)
-- 🥉 3rd Place - Andromeda Web3 Workshop (RiseIn, Feb 2025)
-- 🎖️ 4th Place - Stacks Hackathon (RiseIn, Oct 2025)
-
-**Background:** Environmental Engineer turned developer—bringing analytical thinking to code.
+**More**: [Portfolio](https://gorkemnet.com/) · [LinkedIn](https://www.linkedin.com/in/gorkemsandikci/)
 
 ### 🛠️ Tech Stack
 
-**Backend & Database**
 ```
-PHP • Laravel • Lumen • C# • .NET Core • MySQL • PostgreSQL • MsSQL
-```
-
-**DevOps & Tools**
-```
-Docker • Git • Linux • Nginx • Digital Ocean
+Backend   : PHP, Laravel/Lumen, C#/.NET
+Data/Infra: MySQL/PostgreSQL/MSSQL, Docker, Linux, Nginx, CI/CD
+AI        : YOLOv8, multimodal, FastAPI inference, early RAG
 ```
 
-**Frontend**
-```
-JavaScript • TypeScript • Vue.js • Quasar • HTML/CSS • Tailwind
-```
+### 🚀 Highlighted Projects
 
-**Blockchain & Others**
 ```
-Solana • Rust • Unity • Blender • Flutter
+TrioZone Space AI Companion
+  - AI-powered earthquake safety assistant using YOLOv8 + multimodal room-based hazard detection.
+
+IBYS Occupational Health & Safety System (Deadline Bilisim)
+  - Enterprise OHS platform modernization (.NET Core, ASP.NET APIs, Docker, MSSQL).
+
+Medicabytes (Offline-First Mobile Health Assistant)
+  - Expo React Native app (TypeScript, SQLite, local notifications).
+
+Zoom Events Livestream Module
+  - RTMP → HLS streaming pipeline for private platform embeds.
+
+Quakka Coffee PWA
+  - Offline-first PWA for digital menu, loyalty, and ordering (Laravel + Vue).
 ```
-
----
-
-📫 **gorkemsandikci@gmail.com** | [Portfolio](https://gorkemnet.com/)
-
 
 ---
 
