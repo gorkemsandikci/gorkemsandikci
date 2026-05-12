@@ -1,34 +1,37 @@
 # 👋 Hello, I'm Gorkem Sandikci!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkemsandikci/)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gsandikci)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkemsandikci/)
-
-Software Development Specialist (Backend) · Environmental Engineer
-
-📍 Istanbul, Turkey · 📫 gorkemsandikci@gmail.com · 🌐 [gorkemnet.com](https://gorkemnet.com/)
-
 ## 👨‍💻 About Me
 
 Backend-focused developer specializing in **PHP/Laravel** and **RESTful APIs**, with hands-on DevOps and AI-adjacent services (YOLOv8, multimodal, FastAPI, early RAG).
+
+### 🛠️ Tech Stack
+
+```
+Backend   : PHP, Laravel & Lumen, C#, .NET Core, ASP.NET, Node.js, RESTful API Design, OOP, ORM, Scalable Backend Architecture
+```
+```
+Data/Infra: MySQL/PostgreSQL/MSSQL, Supabase, Docker, Linux, Nginx, CI/CD, DigitalOcean
+```
+```
+AI        :  YOLOv8 (Image Analysis), Multimodal Models (LLaVA, Qwen, Claude), Agents, FastAPI inference, early RAG
+```
 
 ### ⭐ Highlights
 
 ```
 - Shipped production APIs and services (Laravel, PostgreSQL/MySQL, Docker, Linux).
+```
+
+```
 - Built workflow systems (RBAC, approvals, file handling) and admin tooling.
+```
+
+```
 - Implemented RTMP → HLS streaming for private platform embeds.
+```
+
+```
 - Awards: 🥈 HackSolana (Oct 2024) · 🥉 Andromeda Web3 Workshop (Feb 2025) · 🎖️ Stacks Hackathon (Oct 2025)
-```
-
-**More**: [Portfolio](https://gorkemnet.com/) · [LinkedIn](https://www.linkedin.com/in/gorkemsandikci/)
-
-### 🛠️ Tech Stack
-
-```
-Backend   : PHP, Laravel/Lumen, C#/.NET
-Data/Infra: MySQL/PostgreSQL/MSSQL, Docker, Linux, Nginx, CI/CD
-AI        : YOLOv8, multimodal, FastAPI inference, early RAG
 ```
 
 ### 🚀 Highlighted Projects
@@ -36,16 +39,19 @@ AI        : YOLOv8, multimodal, FastAPI inference, early RAG
 ```
 TrioZone Space AI Companion
   - AI-powered earthquake safety assistant using YOLOv8 + multimodal room-based hazard detection.
+```
 
-IBYS Occupational Health & Safety System (Deadline Bilisim)
-  - Enterprise OHS platform modernization (.NET Core, ASP.NET APIs, Docker, MSSQL).
-
+```
 Medicabytes (Offline-First Mobile Health Assistant)
   - Expo React Native app (TypeScript, SQLite, local notifications).
+```
 
+```
 Zoom Events Livestream Module
   - RTMP → HLS streaming pipeline for private platform embeds.
+```
 
+```
 Quakka Coffee PWA
   - Offline-first PWA for digital menu, loyalty, and ordering (Laravel + Vue).
 ```
