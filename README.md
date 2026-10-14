@@ -1,18 +1,19 @@
 <h1 align="center">Gorkem Sandikci</h1>
 
 <p align="center">
-  <strong>Full Stack Developer &nbsp;|&nbsp; PHP, Laravel &amp; C#/.NET &nbsp;|&nbsp; Istanbul, Türkiye</strong>
+  <strong>Software Development Specialist &nbsp;|&nbsp; PHP, Laravel &amp; C#/.NET &nbsp;|&nbsp; Building AI agent systems with local LLMs &amp; Claude Code</strong><br/>
+  Istanbul, Türkiye
 </p>
 
 <p align="center">
+  <a href="https://gorkemnet.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-gorkemnet.com-111111?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/gorkemsandikci" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-gorkemsandikci-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gorkemsandikci@gmail.com">
     <img src="https://img.shields.io/badge/Email-gorkemsandikci%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/gorkemsandikci">
-    <img src="https://img.shields.io/badge/GitHub-gorkemsandikci-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -20,11 +21,42 @@
 
 ## About
 
-Backend-focused software developer specializing in **PHP, Laravel and RESTful API development**, with additional professional experience in **C# and .NET Core**. I design scalable backend architectures, build business-oriented software solutions and deliver full-stack applications with **Vue.js**.
+Backend-focused software developer: **PHP and Laravel in production**, plus **C# and .NET Core**. I have built
+project management and approval workflow systems, ERP and enterprise software, RESTful APIs and integrations,
+including solutions used in projects for Pfizer, Becton Dickinson and Novo Nordisk.
 
-My work spans project execution and management systems, workflow automation, API integrations, ERP applications and enterprise software. I also work with AI components such as YOLOv8, multimodal models, FastAPI-based inference services and early-stage RAG pipelines, and I have hands-on experience with Linux server management, Docker, application deployment and CI/CD processes.
+I also build practical systems around large language models: agent orchestration, local LLM pipelines and
+AI-assisted development with built-in safety checks. Coding agents (Claude Code, Cursor) are part of my daily
+workflow, with tests, reviews and guards around their output.
 
-**Currently:** Full Stack Developer at **Green Holding — GCode**, contributing to **FOTEC X Emission**, a corporate Carbon, Energy and Resource Management platform.
+**Currently:** Full Stack Developer at **Green Holding — GCode**, working on **FOTEC X Emission**, a corporate Carbon,
+Energy and Resource Management platform (Laravel, Vue.js, microservice and queue-based processing, Composer-based SDK packages).
+
+---
+
+## What I'm building
+
+- **G-Maestro** *(private)* — my AI agent orchestration system, in daily use. Local LLMs (Qwen3 14B, Gemma 3 12B on
+  Ollama) and headless Claude Code behind a Telegram bot and a web panel. Coding agents work in isolated git worktrees
+  with build/test gates and cost limits and open GitHub pull requests; a second local model reviews diffs, and
+  model-free guards block prompt injection, secret leaks and unsourced facts.
+- **[Libriopax](https://github.com/gorkemsandikci/libriopax)** *(open source, MIT)* — turns your own EPUB/PDF books
+  into Turkish audiobooks entirely on your own computer: rule-based text cleanup, Turkish reading rules and Piper TTS.
+  A 615-page book became 17.1 hours of audio in 16.7 minutes on a CPU.
+  [Listen to samples →](https://gorkemsandikci.github.io/libriopax/)
+- **Norluna** *(private)* — mobile app (Expo / React Native) with a local LLM content pipeline: Turkish/English
+  content on Gemma 3 12B, chosen over Qwen3 by side-by-side evaluation, checked against ephemeris facts before publishing.
+- **Genvify (EnviroTrack)** *(in development)* — regulation tracking for environmental engineers, combining my
+  environmental engineering degree with software.
+
+### Public repositories
+
+| Repository | What it is |
+| --- | --- |
+| [libriopax](https://github.com/gorkemsandikci/libriopax) | Offline Turkish audiobooks from your own EPUB/PDF books (Python, Piper TTS, ONNX Runtime) |
+| [JobBoardApi](https://github.com/gorkemsandikci/JobBoardApi) | Layered job board on .NET 10: Domain / Application / Infrastructure / API, MVC front end, EF Core |
+| [audio-transcription-web-app](https://github.com/gorkemsandikci/audio-transcription-web-app) | PHP app: transcription with AssemblyAI, structured English and Turkish summaries with the Claude API |
+| [Hardware-Monitoring](https://github.com/gorkemsandikci/Hardware-Monitoring) | Ubuntu + NVIDIA hardware monitor and AI/ML environment validator (Python, WebSocket) |
 
 ---
 
@@ -32,49 +64,33 @@ My work spans project execution and management systems, workflow automation, API
 
 | Area | Technologies |
 | --- | --- |
-| **Backend** | PHP, Laravel, Lumen, C#, .NET Core, ASP.NET Core, Node.js, RESTful API Design, OOP, ORM, Scalable Backend Architecture |
-| **Databases** | MySQL, PostgreSQL, MSSQL, Supabase |
-| **DevOps / Infrastructure** | Docker, Linux, Nginx, Git, Bitbucket, CI/CD Pipelines, DigitalOcean, AWS, Sentry |
-| **Frontend** | JavaScript, TypeScript, Vue.js, Quasar, HTML, CSS, Bootstrap, TailwindCSS |
-| **AI / Machine Learning** | Computer Vision (YOLOv8), Multimodal Models (LLaVA, Qwen, Llama Vision), RAG Pipelines, FastAPI Inference Services, CUDA |
-| **Additional** | Java, Python, ERP Systems, Flutter, Unity, Solana, Smart Contract Concepts, dApps |
+| **Backend** | PHP, Laravel, Lumen, C#, .NET Core, ASP.NET Core, Node.js, Python, RESTful API design, OOP, ORM, RBAC, queues |
+| **AI / LLM** | Agent orchestration, structured outputs, local LLMs (Qwen3, Gemma 3 on Ollama), RAG, embeddings, TTS (Piper), YOLOv8, multimodal models |
+| **AI tools** | Claude Code, Cursor, Augment Code, Windsurf, Ollama, Claude API, OpenAI API, Hugging Face |
+| **Databases** | MySQL, PostgreSQL, MSSQL, SQLite, Redis, Supabase |
+| **DevOps** | Docker, Linux, Nginx, Git, Bitbucket, CI/CD (GitHub Actions), DigitalOcean, AWS, Sentry |
+| **Frontend & mobile** | TypeScript, JavaScript, Vue.js, Quasar, React Native (Expo), Tailwind |
 
 ---
 
-## Professional Experience
+## Experience
 
 | Period | Company | Role | Focus |
 | --- | --- | --- | --- |
-| 07/2026 – Present | **Green Holding — GCode** | Full Stack Developer | Carbon emission, energy and resource management features with Laravel & Vue.js |
-| 12/2024 – 01/2026 | **NicEye Group — Vidizayn** | Software Development Specialist | Role-based project management system, approval flows, API integrations; solutions used in projects for Pfizer, Becton Dickinson (BD) and Novo Nordisk |
-| 07/2022 – 12/2024 | **Elitcar Rental** | Software Development Specialist | Laravel + Vue.js development, RESTful API design, Linux server operations on DigitalOcean |
-| 02/2022 – 07/2022 | **Üsküdar University** | Software Developer | C# / .NET Core MVC backend development for internal ERP systems |
-| 11/2020 – 01/2022 | **HEVI Company** | Software Developer | PHP web development, responsive design, Android WebView applications |
-| 12/2013 – 11/2015 | **Yeni Medya Elektronik Yayıncılık** | Jr. Software Developer | C# & SQL R&D at Habermetre.com, XPath-based web crawling and data extraction |
+| 07/2026 – Present | **Green Holding — GCode** | Full Stack Developer | FOTEC X Emission: carbon, energy and resource management with Laravel & Vue.js; microservices, queues, Composer SDK packages |
+| 01/2026 – 03/2026 | **Deadline Bilisim** | .NET Developer (Freelance) | IBYS occupational health & safety platform: C#/.NET Core, ASP.NET Web APIs, Docker, MSSQL |
+| 12/2024 – 01/2026 | **NicEye Group — Vidizayn** | Software Development Specialist | Role-based project management with approval flows (Laravel, PostgreSQL, AWS); webinar infrastructure for leading pharmaceutical companies |
+| 07/2022 – 12/2024 | **Elitcar Rental** | Software Development Specialist | Laravel / Lumen APIs, Vue.js / Quasar interfaces, Linux servers on DigitalOcean |
+| 07/2020 – 06/2022 | **HEVI Company** | Software Developer | PHP web development, responsive design, Android WebView |
+| 12/2013 – 11/2015 | **Yeni Medya Elektronik Yayıncılık** | Jr. Software Developer | C# & SQL R&D at Habermetre.com, XPath-based web crawling |
 
 ---
 
-## Selected Projects
-
-- **FOTEC X Emission (GCode)** — Corporate Carbon, Energy and Resource Management platform; RESTful APIs, data models, business logic and frontend interfaces with Laravel and Vue.js.
-- **IBYS Occupational Health & Safety System (Deadline Bilisim)** — Modernization of an enterprise OHS platform using C#/.NET Core, ASP.NET Web APIs, Docker and MSSQL.
-- **TrioZone Space AI Companion** — AI-powered earthquake safety assistant for room-based hazard detection, combining YOLOv8 image analysis with multimodal AI models.
-- **Medicabytes** — Offline-first mobile health assistant for medication tracking and allergy-aware health management (Expo React Native, TypeScript, SQLite, local notifications).
-- **Zoom Events Livestream Module** — RTMP → HLS streaming pipeline for embedding Zoom Webinars into private platforms.
-
----
-
-## Certifications
+## Certifications & Awards
 
 - Microsoft Certified: Azure Developer Associate — 2022
-- C# Programming — BTK Akademi, 2024
-- ERP & Data Analysis — Üsküdar University, 2022
+- C# Programming — BTK Akademi, 2024 · ERP & Data Analysis (C#/.NET) — Üsküdar University, 2022
 - C# .NET Application Development & OOP with C# — CSD System Association, 2013–2014
-- Build on Stacks · Andromeda aOS Workshop — Rise In, 2025
-- Solana Bootcamp — Rise In, 2024
-
-## Awards
-
 - **2nd Place** — HackSolana Rapid Project Development Marathon II, Superteam (Oct 2024)
 - **3rd Place** — Andromeda Web3 Workshop, Rise In (Feb 2025)
 - **4th Place** — Stacks Hackathon, Rise In (Oct 2025)
@@ -84,9 +100,7 @@ My work spans project execution and management systems, workflow automation, API
 - **B.Sc. Environmental Engineering** — Istanbul University, 2020
 - **A.S. Web Design and Coding** — Anadolu University, 2020
 
-## Languages
-
-Turkish (Native) · English (B2, Upper-Intermediate) · German (A1, Beginner)
+**Languages:** Turkish (Native) · English (B2)
 
 ---
 
@@ -95,13 +109,13 @@ Turkish (Native) · English (B2, Upper-Intermediate) · German (A1, Beginner)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
 </p>
 
 <p align="center">
